@@ -1,4 +1,4 @@
-# EE495 Selected Topic in Electrical Engineering 
+# Dronr EE495 Selected Topic in Electrical Engineering 
 
 ที่มาและความสำคัญ 
 
